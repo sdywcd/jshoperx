@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.json:org.json:chargebee-1.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.json/org.json/chargebee-1.0/8b3f1c9d4af9140a570002657c6595f8fe21ba56/org.json-chargebee-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.json/org.json/chargebee-1.0/aea5101e063666af13490f774198e7773ae00bb/org.json-chargebee-1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
